@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a51f73b-7409-44b1-a546-319abb38683d" name="Default Changelist" comment="add header to project">
-      <change afterPath="$PROJECT_DIR$/img/avatar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons.svg" afterDir="false" />
+    <list default="true" id="4a51f73b-7409-44b1-a546-319abb38683d" name="Default Changelist" comment="add pots to project">
+      <change afterPath="$PROJECT_DIR$/img/add.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
@@ -64,7 +63,10 @@
       <option name="presentableId" value="Default" />
       <updated>1603192317567</updated>
       <workItem from="1603192318677" duration="3743000" />
-      <workItem from="1603290862234" duration="3797000" />
+      <workItem from="1603290862234" duration="4050000" />
+      <workItem from="1603294995210" duration="61000" />
+      <workItem from="1603344584824" duration="39000" />
+      <workItem from="1603361102866" duration="3982000" />
     </task>
     <task id="LOCAL-00001" summary="add header to project">
       <created>1603194484402</created>
@@ -80,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603194673545</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add pots to project">
+      <created>1603294742241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603294742241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,11 +105,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add header to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add header to project" />
+    <MESSAGE value="add pots to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pots to project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603194313346">
@@ -115,10 +126,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603194232571" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603194678624">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603294745063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603194678624" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603294745063" />
     <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603194587698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
